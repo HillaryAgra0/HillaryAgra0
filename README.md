@@ -18,4 +18,4 @@
 
 ##
 
-  ![Snake animation](https://github.com/HillaryAgra0/HillaryAgra0/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/HillaryAgra0/HillaryAgra0/blob/output/github-contribution-grid-snake.svg)
